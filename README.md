@@ -172,16 +172,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 **Urjashakti** is a machine learning-powered web dashboard that provides a 24-hour forecast for solar power generation. Developed for the Smart India Hackathon, this tool uses a CNN-LSTM model to predict PV output based on historical and weather data, offering actionable recommendations for optimal energy consumption.
-
-[![View Live Demo](https://img.shields.io/badge/View%20Live%20Demo-22C55E?style=for-the-badge&logo=netlify&logoColor=white)](https://your-username.github.io/your-repo-name/)
-_**(You will update this link after deploying)**_
-
----
-
-### 📊 Dashboard Preview
-
-![Urjashakti Dashboard Screenshot](https://i.imgur.com/8a6bJ0g.png)
-
+--
 ---
 
 ### ✨ Key Features
